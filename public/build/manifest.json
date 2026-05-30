@@ -1,0 +1,284 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-Ct5YCK-Q.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/css/output.css": {
+    "file": "assets/output-zIYdAlz4.css",
+    "src": "resources/css/output.css",
+    "isEntry": true,
+    "names": [
+      "output.css"
+    ]
+  },
+  "resources/images/8776378 2.svg": {
+    "file": "assets/8776378 2-CqSPPQE2.svg",
+    "src": "resources/images/8776378 2.svg"
+  },
+  "resources/images/VALENZUELA-CITY-LOGO-768x768.png": {
+    "file": "assets/VALENZUELA-CITY-LOGO-768x768-CqGIyjBT.png",
+    "src": "resources/images/VALENZUELA-CITY-LOGO-768x768.png"
+  },
+  "resources/images/background.jpg": {
+    "file": "assets/background-PZQ877el.jpg",
+    "src": "resources/images/background.jpg"
+  },
+  "resources/images/circle-camera-2.png": {
+    "file": "assets/circle-camera-2-CfHUbIrv.png",
+    "src": "resources/images/circle-camera-2.png"
+  },
+  "resources/images/desktop-mobile/EXPORT_.png": {
+    "file": "assets/EXPORT_-ojRyRSTU.png",
+    "src": "resources/images/desktop-mobile/EXPORT_.png"
+  },
+  "resources/images/desktop-mobile/Group-1.png": {
+    "file": "assets/Group-1-DNaTbvPU.png",
+    "src": "resources/images/desktop-mobile/Group-1.png"
+  },
+  "resources/images/desktop-mobile/Group-29.png": {
+    "file": "assets/Group-29-WJ8gWG10.png",
+    "src": "resources/images/desktop-mobile/Group-29.png"
+  },
+  "resources/images/desktop-mobile/Group-30.png": {
+    "file": "assets/Group-30-D8yINT18.png",
+    "src": "resources/images/desktop-mobile/Group-30.png"
+  },
+  "resources/images/desktop-mobile/Group-31.png": {
+    "file": "assets/Group-31-B0hEXIg1.png",
+    "src": "resources/images/desktop-mobile/Group-31.png"
+  },
+  "resources/images/desktop-mobile/Group-32.png": {
+    "file": "assets/Group-32-B60iWC50.png",
+    "src": "resources/images/desktop-mobile/Group-32.png"
+  },
+  "resources/images/desktop-mobile/Group-33.png": {
+    "file": "assets/Group-33-DrJp5Az6.png",
+    "src": "resources/images/desktop-mobile/Group-33.png"
+  },
+  "resources/images/desktop-mobile/Group-34.png": {
+    "file": "assets/Group-34-ikqpf-oq.png",
+    "src": "resources/images/desktop-mobile/Group-34.png"
+  },
+  "resources/images/desktop-mobile/Group-35.png": {
+    "file": "assets/Group-35-CtK6FxWt.png",
+    "src": "resources/images/desktop-mobile/Group-35.png"
+  },
+  "resources/images/desktop-mobile/Group-36.png": {
+    "file": "assets/Group-36-pWOHTwgj.png",
+    "src": "resources/images/desktop-mobile/Group-36.png"
+  },
+  "resources/images/desktop-mobile/Group-37.png": {
+    "file": "assets/Group-37-CW6mDGfz.png",
+    "src": "resources/images/desktop-mobile/Group-37.png"
+  },
+  "resources/images/desktop-mobile/Group-39.png": {
+    "file": "assets/Group-39-DKLsN-Q5.png",
+    "src": "resources/images/desktop-mobile/Group-39.png"
+  },
+  "resources/images/desktop-mobile/Group-41.png": {
+    "file": "assets/Group-41-COk91zL5.png",
+    "src": "resources/images/desktop-mobile/Group-41.png"
+  },
+  "resources/images/desktop-mobile/Group-42.png": {
+    "file": "assets/Group-42-D-sbDlwP.png",
+    "src": "resources/images/desktop-mobile/Group-42.png"
+  },
+  "resources/images/desktop-mobile/Group-43.png": {
+    "file": "assets/Group-43-C5GaC-KI.png",
+    "src": "resources/images/desktop-mobile/Group-43.png"
+  },
+  "resources/images/desktop-mobile/Group-45.png": {
+    "file": "assets/Group-45-Bk7lhtPM.png",
+    "src": "resources/images/desktop-mobile/Group-45.png"
+  },
+  "resources/images/desktop-mobile/Group-46.png": {
+    "file": "assets/Group-46-pu4JKFfM.png",
+    "src": "resources/images/desktop-mobile/Group-46.png"
+  },
+  "resources/images/desktop-mobile/Group-47.png": {
+    "file": "assets/Group-47-CctAHxel.png",
+    "src": "resources/images/desktop-mobile/Group-47.png"
+  },
+  "resources/images/desktop-mobile/Group-48.png": {
+    "file": "assets/Group-48-Cn4Jwa2q.png",
+    "src": "resources/images/desktop-mobile/Group-48.png"
+  },
+  "resources/images/desktop-mobile/Group-49.png": {
+    "file": "assets/Group-49-wYnN-Tgt.png",
+    "src": "resources/images/desktop-mobile/Group-49.png"
+  },
+  "resources/images/desktop-mobile/Group-50.png": {
+    "file": "assets/Group-50--vFyVPFP.png",
+    "src": "resources/images/desktop-mobile/Group-50.png"
+  },
+  "resources/images/desktop-mobile/Group-51.png": {
+    "file": "assets/Group-51-CugOnyQ4.png",
+    "src": "resources/images/desktop-mobile/Group-51.png"
+  },
+  "resources/images/desktop-mobile/Group-52.png": {
+    "file": "assets/Group-52-BTRidFaG.png",
+    "src": "resources/images/desktop-mobile/Group-52.png"
+  },
+  "resources/images/desktop-mobile/Group-53.png": {
+    "file": "assets/Group-53-CMYtSobI.png",
+    "src": "resources/images/desktop-mobile/Group-53.png"
+  },
+  "resources/images/desktop-mobile/Group-57.png": {
+    "file": "assets/Group-57-DrNk7rw_.png",
+    "src": "resources/images/desktop-mobile/Group-57.png"
+  },
+  "resources/images/desktop-mobile/Group-60.png": {
+    "file": "assets/Group-60-D6JpDOlo.png",
+    "src": "resources/images/desktop-mobile/Group-60.png"
+  },
+  "resources/images/desktop-mobile/Group-62.png": {
+    "file": "assets/Group-62-DSqWM_Za.png",
+    "src": "resources/images/desktop-mobile/Group-62.png"
+  },
+  "resources/images/desktop-mobile/Group-63.png": {
+    "file": "assets/Group-63-CODiwEWt.png",
+    "src": "resources/images/desktop-mobile/Group-63.png"
+  },
+  "resources/images/desktop-mobile/Group-70.png": {
+    "file": "assets/Group-70-nQlMxbHd.png",
+    "src": "resources/images/desktop-mobile/Group-70.png"
+  },
+  "resources/images/desktop-mobile/Group-71.png": {
+    "file": "assets/Group-71-BGdtgT7h.png",
+    "src": "resources/images/desktop-mobile/Group-71.png"
+  },
+  "resources/images/desktop-mobile/Group-73.png": {
+    "file": "assets/Group-73-BF1hTnJj.png",
+    "src": "resources/images/desktop-mobile/Group-73.png"
+  },
+  "resources/images/desktop-mobile/Group.png": {
+    "file": "assets/Group-sEQOJdFA.png",
+    "src": "resources/images/desktop-mobile/Group.png"
+  },
+  "resources/images/desktop-mobile/I AGREE.png": {
+    "file": "assets/I AGREE-DEwIlo1O.png",
+    "src": "resources/images/desktop-mobile/I AGREE.png"
+  },
+  "resources/images/desktop-mobile/Rectangle-28.png": {
+    "file": "assets/Rectangle-28-DH3863sq.png",
+    "src": "resources/images/desktop-mobile/Rectangle-28.png"
+  },
+  "resources/images/desktop-mobile/Rectangle-50.png": {
+    "file": "assets/Rectangle-50-XuzpylEa.png",
+    "src": "resources/images/desktop-mobile/Rectangle-50.png"
+  },
+  "resources/images/desktop-mobile/Rectangle-70.png": {
+    "file": "assets/Rectangle-70-CMtft_L7.png",
+    "src": "resources/images/desktop-mobile/Rectangle-70.png"
+  },
+  "resources/images/desktop-mobile/Vector-1.png": {
+    "file": "assets/Vector-1-DdWO1Jyp.png",
+    "src": "resources/images/desktop-mobile/Vector-1.png"
+  },
+  "resources/images/desktop-mobile/Vector-2.png": {
+    "file": "assets/Vector-2-B6Vx8Qog.png",
+    "src": "resources/images/desktop-mobile/Vector-2.png"
+  },
+  "resources/images/desktop-mobile/Vector.png": {
+    "file": "assets/Vector-CMNrIhTm.png",
+    "src": "resources/images/desktop-mobile/Vector.png"
+  },
+  "resources/images/desktop-mobile/add-4-1.png": {
+    "file": "assets/add-4-1-_fQcoBij.png",
+    "src": "resources/images/desktop-mobile/add-4-1.png"
+  },
+  "resources/images/desktop-mobile/add-4.png": {
+    "file": "assets/add-4-DH7F-NxR.png",
+    "src": "resources/images/desktop-mobile/add-4.png"
+  },
+  "resources/images/desktop-mobile/cross-circle-12.png": {
+    "file": "assets/cross-circle-12-lDlfh2gG.png",
+    "src": "resources/images/desktop-mobile/cross-circle-12.png"
+  },
+  "resources/images/desktop-mobile/cross-circle-17.png": {
+    "file": "assets/cross-circle-17-BFfnxkx-.png",
+    "src": "resources/images/desktop-mobile/cross-circle-17.png"
+  },
+  "resources/images/desktop-mobile/edit-12.png": {
+    "file": "assets/edit-12-BjXTRE91.png",
+    "src": "resources/images/desktop-mobile/edit-12.png"
+  },
+  "resources/images/desktop-mobile/edit-17.png": {
+    "file": "assets/edit-17-C8EYvd1X.png",
+    "src": "resources/images/desktop-mobile/edit-17.png"
+  },
+  "resources/images/desktop-mobile/file-csv-2.png": {
+    "file": "assets/file-csv-2-jt_OrtR5.png",
+    "src": "resources/images/desktop-mobile/file-csv-2.png"
+  },
+  "resources/images/desktop-mobile/icons8-excel-48-2-1.png": {
+    "file": "assets/icons8-excel-48-2-1-C8lMalYv.png",
+    "src": "resources/images/desktop-mobile/icons8-excel-48-2-1.png"
+  },
+  "resources/images/desktop-mobile/icons8-excel-48-2.png": {
+    "file": "assets/icons8-excel-48-2-Ct2WGF0r.png",
+    "src": "resources/images/desktop-mobile/icons8-excel-48-2.png"
+  },
+  "resources/images/desktop-mobile/icons8-pdf-48-2-1.png": {
+    "file": "assets/icons8-pdf-48-2-1-qf31J7GC.png",
+    "src": "resources/images/desktop-mobile/icons8-pdf-48-2-1.png"
+  },
+  "resources/images/desktop-mobile/icons8-pdf-48-2.png": {
+    "file": "assets/icons8-pdf-48-2-BUmYxc8h.png",
+    "src": "resources/images/desktop-mobile/icons8-pdf-48-2.png"
+  },
+  "resources/images/desktop-mobile/member-list-2.png": {
+    "file": "assets/member-list-2-DlZyyG7-.png",
+    "src": "resources/images/desktop-mobile/member-list-2.png"
+  },
+  "resources/images/desktop-mobile/newspaper-2.png": {
+    "file": "assets/newspaper-2-DUEVzxl-.png",
+    "src": "resources/images/desktop-mobile/newspaper-2.png"
+  },
+  "resources/images/desktop-mobile/search-2.png": {
+    "file": "assets/search-2-CWkwUcMq.png",
+    "src": "resources/images/desktop-mobile/search-2.png"
+  },
+  "resources/images/header1.png": {
+    "file": "assets/header1-DPknhBhw.png",
+    "src": "resources/images/header1.png"
+  },
+  "resources/images/header2.png": {
+    "file": "assets/header2-BYY2v8Pw.png",
+    "src": "resources/images/header2.png"
+  },
+  "resources/images/header_backend.png": {
+    "file": "assets/header_backend-L21PFQ08.png",
+    "src": "resources/images/header_backend.png"
+  },
+  "resources/images/profile.png": {
+    "file": "assets/profile-utc8jy1e.png",
+    "src": "resources/images/profile.png"
+  },
+  "resources/images/search_24dp_010767_FILL0_wght400_GRAD0_opsz24.png": {
+    "file": "assets/search_24dp_010767_FILL0_wght400_GRAD0_opsz24-CmWFgPyO.png",
+    "src": "resources/images/search_24dp_010767_FILL0_wght400_GRAD0_opsz24.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CAiCLEjY.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/user/analytics.js": {
+    "file": "assets/analytics-Nn_I0TBY.js",
+    "name": "analytics",
+    "src": "resources/js/user/analytics.js",
+    "isEntry": true
+  },
+  "resources/js/user/script.js": {
+    "file": "assets/script-Ch8ca0sY.js",
+    "name": "script",
+    "src": "resources/js/user/script.js",
+    "isEntry": true
+  }
+}
