@@ -13,6 +13,8 @@
     { "src": "/(.*)", "dest": "/api/index.php" }
   ],
     "env": {
+        "APP_URL": "https://validate-lemon.vercel.app",
+    "ASSET_URL": "https://validate-lemon.vercel.app",
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "LOG_CHANNEL": "stderr",
