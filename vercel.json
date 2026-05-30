@@ -2,12 +2,7 @@
     "version": 2,
     "framework": null,
     "outputDirectory": "public",
-    "functions": {
-        "api/*.php": {
-            "runtime": "vercel-php@0.7.1"
-        }
-    },
-   "builds": [
+    "builds": [
     { "src": "api/index.php", "use": "vercel-php@0.7.2" },
     { "src": "public/build/assets/**", "use": "@vercel/static" },
     { "src": "public/*.ico", "use": "@vercel/static" },
