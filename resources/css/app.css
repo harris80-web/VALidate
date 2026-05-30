@@ -1,0 +1,86 @@
+@import "tailwindcss";
+
+@theme {
+  --color-#010767: #010767;
+  --color-#162681: #162681;
+  --color-#020ECD: #020ECD;
+  --color-#EB1400: #EB1400;
+  --color-#850B00: #850B00;
+  --color-#FFEA01: #FFEA01;
+  --color-#0B1674: #0B1674;
+  --color-#1529DA: #1529DA;
+  --color-#E2ECFF: #E2ECFF;
+  --color-#02AB27: #02AB27;
+  --color-#014510: #014510;
+  --color-#FF0612: #FF0612;
+  --color-#B40109: #B40109;
+  --color-#38C5FF: #38C5FF;
+  --color-#030969: #030969;
+  --color-#172783: #172783;
+  --color-#FFFFFF: #FFFFFF;
+  --color-#E7F0FF: #E7F0FF;
+  --color-#000000: #000000;
+  --color-#010A9A: #010A9A;
+  --color-#EA3323: #EA3323;
+  --color-#841D14: #841D14;
+  --color-#1D35E0: #1D35E0;
+  --color-#F38E00: #F38E00;
+  --color-#0153E3: #0153E3;
+  --color-#C4E602: #C4E602;
+  --color-#55CB06: #55CB06;
+  --color-#008334: #008334;
+}
+
+.text-linear-gradient{
+  background: linear-gradient(180deg, #010767 40%, #2D7AFF 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-linear-gradient2{
+  background: linear-gradient(-70deg, #FFFFFF 33%, #38C5FF 74%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.visually-hidden{
+  position: absolute !important;
+    width: 1px !important;
+    height: 1px !important;
+    padding: 0 !important;
+    margin: -1px !important; /* Fix for older browsers */
+    overflow: hidden !important;
+    clip: rect(0, 0, 0, 0) !important;
+    white-space: nowrap !important;
+    border: 0 !important;
+}
+
+
+input[type="date"]:before {
+    content: attr(data-placeholder);
+    color: #888;
+    position: absolute;
+    margin-left: 5px;
+}
+
+/* Remove placeholder when a date is selected */
+input[type="date"]:valid:before {
+    content: "";
+}
+
+.default-hidden {
+  display: none;
+}
+
+
+        /* Initial/Default size of the icon */
+        .sqd-icon {
+            height: 48px; /* Default h-12 */
+            width: 48px;  /* Default w-12 */
+        }
+
+        /* Enlarged size of the icon */
+        .sqd-icon-enlarged {
+            height: 64px; /* Enlarged h-16 */
+            width: 64px;  /* Enlarged w-16 */
+        }
